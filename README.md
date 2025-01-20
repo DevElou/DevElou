@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Elouan</h1>
 <h3 align="center">I'm a tech enjoyer from France</h3>
 
-- 🔭 I’m currently studying at **EPITA**
+- 🎓 : Currently pursuing a degree in Computer Science at EPITA in France.
+- 💻 : Proficient in C, Python, and Shell scripting. Familiar with system programming, algorithms, and data structures.
+- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers, and Discord bots.
+- 🔧 : Coding, weightlifting, and experimenting with new tools or frameworks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,24 +19,24 @@
 
 Most of the projects on this Git account are private, but feel free to reach out if you're interested in any specific project. I can make them available upon request. 
 
-## Featured Projects
+## Personnal Projects
+
+- **Edshelter Mobile App**: A mobile application developed using Flutter, designed to simulate a marketplace for subleasing (stack: Flutter)
+- **Discord Bot**: My personnal discord bot deploy on docker (stack: Python)
+- **Portfolio** : My peronnal portfolio (stack: VusJS, TailwindCSS)
+
+## Scolar Projects
 
 Here are a few examples of the projects I have worked on:
 
-- **42sh**: A custom shell implementation with advanced features like AST parsing and command execution.
-- **Bittorrent**: A lightweight BitTorrent client with a focus on metadata parsing and efficient file handling.
-- **epoll_server**: A high-performance server implementation using epoll for managing multiple connections.
-- **malloc**: A custom memory allocator built from scratch, including implementations for `malloc`, `free`, and `realloc`.
-- **myfind**: A command-line utility similar to `find`, capable of parsing complex queries and generating an abstract syntax tree (AST).
+- **42sh**: A custom shell implementation with advanced features like AST parsing and command execution. (stack: C, python)
+- **Bittorrent**: A lightweight BitTorrent client with a focus on metadata parsing and efficient file handling. (stack: C)
+- **epoll_server**: A high-performance server implementation using epoll for managing multiple connections. (stack: C)
+- **malloc**: A custom memory allocator built from scratch, including implementations for `malloc`, `free`, and `realloc`. (stack: C)
+- **myfind**: A command-line utility similar to `find`, capable of parsing complex queries and generating an abstract syntax tree (AST). (stack: C)
 
 ## Contact
 
-If you're interested in any of these projects, feel free to contact me at **hamza.hannat@epita.fr**. I'd be happy to share details or discuss potential opportunities.
+If you're interested in any of these projects, feel free to contact me at **elouan.tailliez@epita.fr**. I'd be happy to share details or discuss potential opportunities.
 
 Thank you for visiting my repository!
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevElou&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevElou&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevElou&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
