@@ -22,7 +22,7 @@ Most of the projects on this Git account are private, but feel free to reach out
 ## Personnal Projects
 
 - **Edshelter Mobile App**: A mobile application developed using Flutter, designed to simulate a marketplace for subleasing (stack: Flutter)
-- **Discord Bot**: My personnal discord bot deploy on docker (stack: Python)
+- **Discord Bot**: My personnal discord bot deployed on my docker self-hosted infrastructure (stack: Python)
 - **Portfolio** : My peronnal portfolio (stack: VusJS, TailwindCSS)
 
 ## Scolar Projects
