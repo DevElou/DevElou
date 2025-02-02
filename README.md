@@ -2,7 +2,7 @@
 <h3 align="center">I'm a tech enjoyer from France</h3>
 
 - 🎓 : Currently pursuing a degree in Computer Science at EPITA in France.
-- 💻 : Proficient in C, Python, and Shell scripting. Familiar with system programming, algorithms, and data structures.
+- 💻 : Proficient in C, Python, Java, D'art and Shell scripting. Familiar with system programming, algorithms, and data structures.
 - 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers, and Discord bots.
 - 🔧 : Coding, weightlifting, and experimenting with new tools or frameworks.
 
